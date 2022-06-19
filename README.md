@@ -1,5 +1,5 @@
-# house-price-prediction
-House Price Prediction is a project runs on top of Machine Learning and predicting the price of house.
+# house-rental-prediction
+House Rental Prediction is a project runs on top of Machine Learning and predicting the rent of house.
 
 # Softwares
 1. VS Code
